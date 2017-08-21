@@ -23,6 +23,8 @@ jupyter-notebook Hackathon.ipynb
 
 7. Press Shift+Enter to run each cell
 
+8. The last cell writes the results of the test set to results.txt 
+
 Feel free to contact tornadoalert@gmail.com for any queries.
 If anything does not work, the result of the notbook is available at https://github.com/tornadoalert/hackathon/blob/master/Hackathon.ipynb
 
