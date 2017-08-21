@@ -1,5 +1,5 @@
 Phillips Hackabout 2017 Solution
-Team leader - Sushrut Tathavadkar <sushrut.t@gmail.com>
+Team leader - Sushrut Tahavtadkar <sushrut.t@gmail.com>
 ================================================
 Instructions:
 
@@ -19,7 +19,7 @@ conda env create -f environment.yml
 activate tensorflow
 jupyter-notebook Hackathon.ipynb
 
-6. Wait for the notbook to load up in a browser
+6. Wait for the notebook to load up in a browser
 
 7. Press Shift+Enter to run each cell
 
@@ -27,4 +27,3 @@ jupyter-notebook Hackathon.ipynb
 
 Feel free to contact tornadoalert@gmail.com for any queries.
 If anything does not work, the result of the notbook is available at https://github.com/tornadoalert/hackathon/blob/master/Hackathon.ipynb
-
