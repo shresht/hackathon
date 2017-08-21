@@ -1,5 +1,5 @@
 Phillips Hackabout 2017 Solution
-Team leader - Sushruth
+Team leader - Sushrut Tathavadkar <sushrut.t@gmail.com>
 ================================================
 Instructions:
 
